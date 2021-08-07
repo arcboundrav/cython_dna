@@ -12,5 +12,4 @@ Running the Simulation
 1.  Use pip to Install numpy>=1.17.4 and easycython>=1.0.7.
 2.  In the directory containing dna.pyx, run easycython dna.pyx.
 3.  Once it is finished, run python3 and:
-    >>> import dna
-    >>> dna.test()
+    import dna;dna.test()
