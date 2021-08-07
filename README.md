@@ -4,4 +4,4 @@ the use of a genetic algorithm. The algorithm is adapted from the approach descr
 Mikkulainen's 2002 paper, Evolving Neural Networks Through Augmenting Topologies.
 
 The project is a proof of concept. The approach successfully evolves a network which is able
-to approximate an arbitrary value between 0 and 1 to within a margin of error of 0.001.
+to approximate an arbitrary value between 0 and 1 to within a margin of error of 0.0001.
